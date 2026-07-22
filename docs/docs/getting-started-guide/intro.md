@@ -18,7 +18,7 @@ SimpleQ_Publisher_Demo.fmp12 will "publish" a message to a channel in SimpleQ. S
 The "Message" we will be sending is just a simple "greeting."
 
 1.  The greeting will be entered into a field in the SimpleQ_Publishing_Demo.fmp12 file.
-2.  Clicking a "Send Message" button will "Publish that message to a channel in SimpleQ.fmp12.
+2.  Clicking a "Send Message" button will Publish that message to a channel in SimpleQ.fmp12.
 3.  SimpleQ will then send the message to the SimpleQ_Subscriber_Demo.fmp12
 4.  A script will set that value into a field.
 
